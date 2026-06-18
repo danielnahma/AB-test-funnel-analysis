@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project analyzes two marketing campaigns — **Control Campaign** and **Test Campaign** — using A/B testing methodology to determine which campaign is more efficient at converting customers through the marketing funnel.
+This project analyzes two marketing campaigns — **Control Campaign** and **Test Campaign**, using A/B testing methodology to determine which campaign is more efficient at converting customers through the marketing funnel.
 
 The analysis was performed using **SQL Server** for data preparation and aggregation, and **Python (Jupyter Notebook)** for statistical testing and visualization.
 
@@ -116,4 +116,4 @@ The analysis was performed using **SQL Server** for data preparation and aggrega
 
 ## Recommendation
 
-**The Control Campaign is the more efficient investment.** Despite lower CTR, it achieves a lower cost per acquisition ($4.41 vs $5.02) and lower CPM ($21.03 vs $35.13). The Test Campaign attracts more clicks but at higher cost and lower conversion quality — indicating the Test Campaign's creative may be driving curiosity clicks rather than purchase intent.
+**The Control Campaign is the more efficient investment.** Despite lower CTR, it achieves a lower cost per acquisition ($4.41 vs $5.02) and lower CPM ($21.03 vs $35.13). The Test Campaign attracts more clicks but at higher cost and lower conversion quality, indicating the Test Campaign's creative may be driving curiosity clicks rather than purchase intent.
